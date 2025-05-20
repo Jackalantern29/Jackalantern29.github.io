@@ -1,0 +1,9 @@
+#type-box {
+    display: flex;
+}
+.helmet-bro-icon {
+    width: 5.1% !important;
+}
+#champion-icons {
+    row-gap: 4px !important;
+}
