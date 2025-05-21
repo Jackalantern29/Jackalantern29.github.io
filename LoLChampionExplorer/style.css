@@ -1,0 +1,5 @@
+.champion-card {
+    width: 207px; !important;
+    max-width: 207px;
+    display: inline-flex;
+}
